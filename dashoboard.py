@@ -81,3 +81,5 @@ def update_graph_and_table(year_range, month_range, col_chosen):
 # Run the app
 if __name__ == '__main__':
     app.run(debug=True)
+
+
